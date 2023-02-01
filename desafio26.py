@@ -1,0 +1,5 @@
+palavra = input('Digite algo: ')
+qa = palavra.count('a')
+pos1 = palavra.find('a')
+pos2 = palavra.rfind('a')
+print('Na frase {} a letra A aparece {} vezes\nA primeira aparição no caractere {} e a ultima no caractere {}'.format(palavra, qa, pos1,pos2))
