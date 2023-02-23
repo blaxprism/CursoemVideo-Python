@@ -1,7 +1,3 @@
-# replace(" ", "")
-# pegar a string
-# inverter ela com o for
-# testar se ela invertida é igual a ela normal a cada posição
 original = input('Digite algo: ')
 nospace = original.replace(" ", "").lower()
 tamanho = len(nospace)
