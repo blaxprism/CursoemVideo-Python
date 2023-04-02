@@ -1,8 +1,3 @@
-# repetir tudo
-# receber numa variavel
-# salvar no final de um array as mulheres
-# salvar no final de um array se for homem
-# salvar num array tudo
 continuar = 1
 idade = 0
 homens = 0
